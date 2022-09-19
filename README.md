@@ -33,3 +33,5 @@ This project utilizes the following concepts / approaches / tools:
 * Reading data from a csv file and loading it into the BST
 * Implementing a text-based user interface based on project specifications
 * Implementing input validation and error handling
+
+![main_menu_course_planner](https://user-images.githubusercontent.com/88697660/191091185-6e82e438-b404-4f7f-8425-e323c19c6afd.PNG)
