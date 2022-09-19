@@ -21,17 +21,17 @@ allocation rather well.  I considered a Hash Table as an alternative data
 structure, but I utimately chose a BST because it performs better in the memory
 efficiency arena.  
  
-This project utilizes the following concepts / approaches / tools:
+This project provides the following structures and functionality:
 
-* Implementing a Binary Search Tree data structure
-* Traversing the BST In Order (left to right) via recursive algorithm
-* Inserting a new node into the BST
-* Populating each new node with data for the Course objects used in this 
+* Implements a Binary Search Tree data structure
+* Traverses the BST In Order (left to right) via recursive algorithm
+* Inserts a new node into the BST
+* Populates each new node with data for the Course objects used in this 
   program
-* Searching for Course objects within the BST
-* Retrieving and Printing Course information based on project specifications
-* Reading data from a csv file and loading it into the BST
-* Implementing a text-based user interface based on project specifications
-* Implementing input validation and error handling
+* Searches for Course objects within the BST
+* Retrieves and Prints Course information based on project specifications
+* Reads data from a csv file and loading it into the BST
+* Implements a text-based user interface based on project specifications
+* Implements input validation and error handling
 
 ![main_menu_course_planner](https://user-images.githubusercontent.com/88697660/191091185-6e82e438-b404-4f7f-8425-e323c19c6afd.PNG)
