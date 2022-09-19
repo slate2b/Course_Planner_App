@@ -16,7 +16,7 @@ Hampshire University.
 
 For this project, I performed runtime complexity analysis and space complexity
 analysis for multiple data structures.  I chose to use a BST since it had an 
-average runtime complexity is Theta(log(n)) and because it handled memory 
+average runtime complexity of Theta(log(n)) and because it handled memory 
 allocation rather well.  I considered a Hash Table as an alternative data 
 structure, but I utimately chose a BST because it performs better in the memory
 efficiency arena.  
