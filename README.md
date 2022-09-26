@@ -20,6 +20,8 @@ average runtime complexity of Theta(log(n)) and because it handled memory
 allocation rather well.  I considered a Hash Table as an alternative data 
 structure, but I utimately chose a BST because it performs better in the memory
 efficiency arena.  
+
+![main_menu_course_planner](https://user-images.githubusercontent.com/88697660/191091185-6e82e438-b404-4f7f-8425-e323c19c6afd.PNG)
  
 This project provides the following structures and functionality:
 
@@ -33,5 +35,3 @@ This project provides the following structures and functionality:
 * Reads data from a csv file and loading it into the BST
 * Implements a text-based user interface based on project specifications
 * Implements input validation and error handling
-
-![main_menu_course_planner](https://user-images.githubusercontent.com/88697660/191091185-6e82e438-b404-4f7f-8425-e323c19c6afd.PNG)
